@@ -1,4 +1,4 @@
-# GroupChatWebpage
+# Group Chat Webpage
 
 GroupChatWebpage is a simple webpage that allows users to view, create, edit, and delete group conversations. The webpage displays chat messages along with the sender, receiver, date, and time. It uses MongoDB as the database to store chat data and provides functionality to view chat details in-depth. The application utilizes RESTful APIs for interacting with chat data.
 
